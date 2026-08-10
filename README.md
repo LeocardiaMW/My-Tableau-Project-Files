@@ -20,6 +20,7 @@ The dashboard incorporates a variety of chart types to present data from multipl
 - 🥧 **Pie Charts** for market share and category distribution
 - 🗺️ **Map Visualizations** for geographic sales analysis
 - Additional supporting visuals to enhance insight discovery
+<img width="683" height="317" alt="image" src="https://github.com/user-attachments/assets/9da6024c-6050-4b09-8209-436b5a05a520" />
 
 ## Features
 - Interactive filtering by region, product category, and time period
@@ -27,6 +28,7 @@ The dashboard incorporates a variety of chart types to present data from multipl
 - Custom calculated fields for performance metrics
 - User-friendly dashboard navigation
 - Responsive visual elements that update based on user selections
+<img width="343" height="359" alt="image" src="https://github.com/user-attachments/assets/569869d3-15ad-4357-812a-db073be18ddf" />
 
 ## Data Storytelling Focus
 The project emphasizes converting raw retail and sales data into a clear narrative by:
