@@ -1,7 +1,7 @@
-# Tableau Retail & Sales Dashboard Project
+# Data Bootcamp – Tableau Dashboard Project
 
 ## Overview
-This project was completed as part of a **Data Technician Bootcamp**, focusing on transforming retail and sales data into meaningful business insights using **Tableau**. The objective was to create interactive and visually engaging dashboards that support data-driven decision-making through effective data storytelling.
+This Tableau project was completed as part of a **Data Technician Bootcamp**, where I developed practical data visualization and business intelligence skills by creating interactive dashboards and analytical reports. The project involved transforming raw datasets into clear, meaningful visualizations that enable users to explore trends, patterns, and key insights through an intuitive dashboard experience.
 
 ## Key Skills Demonstrated
 - Interactive dashboard design in Tableau
