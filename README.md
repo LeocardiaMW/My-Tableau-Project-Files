@@ -1,4 +1,4 @@
-# Data Bootcamp – Tableau Dashboard Project
+# Tableau Project
 
 ## Overview
 This Tableau project was completed as part of a **Data Technician Bootcamp**, where I developed practical data visualization and business intelligence skills by creating interactive dashboards and analytical reports. The project involved transforming raw datasets into clear, meaningful visualizations that enable users to explore trends, patterns, and key insights through an intuitive dashboard experience.
@@ -21,14 +21,14 @@ The dashboard incorporates a variety of chart types to present data from multipl
 - 🗺️ **Map Visualizations** for geographic sales analysis
 - Additional supporting visuals to enhance insight discovery
 
-<img width="658" height="326" alt="image" src="https://github.com/user-attachments/assets/758baa8f-1986-4187-96e8-92684446c1d4" />
-
 ## Features
 - Interactive filtering by region, product category, and time period
 - Dynamic slicers enabling drill-down analysis
 - Custom calculated fields for performance metrics
 - User-friendly dashboard navigation
 - Responsive visual elements that update based on user selections
+
+<img width="658" height="326" alt="image" src="https://github.com/user-attachments/assets/758baa8f-1986-4187-96e8-92684446c1d4" />
 
 ## Data Storytelling Focus
 The project emphasizes converting raw retail and sales data into a clear narrative by:
@@ -43,7 +43,6 @@ The project emphasizes converting raw retail and sales data into a clear narrati
 Through this project, I developed practical experience in:
 
 - Building professional Tableau dashboards
-- Creating interactive business intelligence solutions
 - Applying visualization techniques to real-world datasets
 - Extracting actionable insights from retail and sales data
 - Presenting findings through effective data storytelling
@@ -61,10 +60,9 @@ Through this project, I developed practical experience in:
 
 [Link to my Dashboard](https://public.tableau.com/views/GBEmploymentData_17833509231920/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-<img width="902" height="360" alt="image" src="https://github.com/user-attachments/assets/e679d85b-1358-42c5-8f63-5cfe47f862b2" />
-
-
+<img width="920" height="326" alt="image" src="https://github.com/user-attachments/assets/e33ba658-bb02-439e-a6f2-d96748ec7244" />
 <br><br>
+
 ## ✨📸 Health Dashboard
 
 [Link to my Dashboard](https://public.tableau.com/views/GapminderHealthData/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
