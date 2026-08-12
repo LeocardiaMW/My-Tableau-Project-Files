@@ -21,6 +21,9 @@ The dashboard incorporates a variety of chart types to present data from multipl
 - 🗺️ **Map Visualizations** for geographic sales analysis
 - Additional supporting visuals to enhance insight discovery
 
+<img width="953" height="359" alt="image" src="https://github.com/user-attachments/assets/9b5b62c0-6134-442a-a137-7fd6073dcb74" />
+
+
 ## Features
 - Interactive filtering by region, product category, and time period
 - Dynamic slicers enabling drill-down analysis
