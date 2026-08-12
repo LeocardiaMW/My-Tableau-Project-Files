@@ -67,7 +67,7 @@ Through this project, I developed practical experience in:
 <br><br>
 ## ✨📸 Health Dashboard
 
-[Link to my Dashboard](https://public.tableau.com/views/GapminderHealthData/GlobalHealthInsights?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Link to my Dashboard](https://public.tableau.com/views/GapminderHealthData/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img width="658" height="324" alt="image" src="https://github.com/user-attachments/assets/9ea3033b-8a1c-4c5a-89ef-0d694843ee9a" />
 <br><br>
