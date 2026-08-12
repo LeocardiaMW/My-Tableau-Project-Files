@@ -21,8 +21,7 @@ The dashboard incorporates a variety of chart types to present data from multipl
 - 🗺️ **Map Visualizations** for geographic sales analysis
 - Additional supporting visuals to enhance insight discovery
 
-<img width="953" height="359" alt="image" src="https://github.com/user-attachments/assets/9b5b62c0-6134-442a-a137-7fd6073dcb74" />
-
+<img width="658" height="326" alt="image" src="https://github.com/user-attachments/assets/758baa8f-1986-4187-96e8-92684446c1d4" />
 
 ## Features
 - Interactive filtering by region, product category, and time period
@@ -58,7 +57,7 @@ Through this project, I developed practical experience in:
 --- 
 **Focus Areas:** Data Visualization, Dashboard Development, Analysis, and Business Intelligence
 
-## Employment Dashboard
+## ✨📸 Employment Dashboard
 
 [Link to my Dashboard](https://public.tableau.com/views/GBEmploymentData_17833509231920/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -66,8 +65,12 @@ Through this project, I developed practical experience in:
 
 
 <br><br>
-## Health Dashboard
+## ✨📸 Health Dashboard
 
 [Link to my Dashboard](https://public.tableau.com/views/GapminderHealthData/GlobalHealthInsights?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-<img width="683" height="317" alt="image" src="https://github.com/user-attachments/assets/9da6024c-6050-4b09-8209-436b5a05a520" />
+<img width="658" height="324" alt="image" src="https://github.com/user-attachments/assets/9ea3033b-8a1c-4c5a-89ef-0d694843ee9a" />
+<br><br>
+<img width="658" height="296" alt="image" src="https://github.com/user-attachments/assets/64a4d6bd-0edc-402c-85fb-a3cae60df0cc" />
+
+
